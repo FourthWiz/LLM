@@ -6,3 +6,7 @@ HW5
 __pycache__
 config*
 *DS_Store*
+app.py
+app2.py
+project_prototype.py
+*.csv
